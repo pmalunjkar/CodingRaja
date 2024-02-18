@@ -1,0 +1,78 @@
+
+===== Budget Tracker =====
+1. Add Income
+2. Add Expense
+3. View Balance
+4. View Spending Trends
+5. Exit
+Enter your choice: 
+1
+Enter income amount: 
+120000
+Income added successfully.
+
+===== Budget Tracker =====
+1. Add Income
+2. Add Expense
+3. View Balance
+4. View Spending Trends
+5. Exit
+Enter your choice: 
+2
+Enter expense category: 
+Business
+Enter expense amount: 
+20000
+Expense added successfully.
+
+===== Budget Tracker =====
+1. Add Income
+2. Add Expense
+3. View Balance
+4. View Spending Trends
+5. Exit
+Enter your choice: 
+3
+Enter your total income: 
+100000
+Total Expenses: 20000.0
+Total Income: 120000.0
+Remaining Budget: 80000.0
+
+===== Budget Tracker =====
+1. Add Income
+2. Add Expense
+3. View Balance
+4. View Spending Trends
+5. Exit
+Enter your choice: 
+4
+Spending Trends:
+Business: 20000.0
+
+===== Budget Tracker =====
+1. Add Income
+2. Add Expense
+3. View Balance
+4. View Spending Trends
+5. Exit
+Enter your choice: 
+3
+Enter your total income: 
+102000
+Total Expenses: 20000.0
+Total Income: 120000.0
+Remaining Budget: 82000.0
+
+===== Budget Tracker =====
+1. Add Income
+2. Add Expense
+3. View Balance
+4. View Spending Trends
+5. Exit
+Enter your choice: 
+5
+
+
+** Process exited - Return Code: 0 **
+Press Enter to exit terminal
