@@ -1,0 +1,111 @@
+
+===== To-Do List Manager =====
+1. Add Task
+2. Remove Task
+3. Mark Task as Completed
+4. Display Tasks
+5. Exit
+Enter your choice: 
+1
+Enter task name: 
+Completion
+Enter priority (high, medium, low): 
+medium
+Enter due date (YYYY-MM-DD): 
+2024-03-01
+
+===== To-Do List Manager =====
+1. Add Task
+2. Remove Task
+3. Mark Task as Completed
+4. Display Tasks
+5. Exit
+Enter your choice: 
+4
+1. Completion - Priority: medium, Due Date: 2024-03-01, Completed: False
+
+===== To-Do List Manager =====
+1. Add Task
+2. Remove Task
+3. Mark Task as Completed
+4. Display Tasks
+5. Exit
+Enter your choice: 
+1
+Enter task name: 
+Reading Book
+Enter priority (high, medium, low): 
+High
+Enter due date (YYYY-MM-DD): 
+2024-03-15
+
+===== To-Do List Manager =====
+1. Add Task
+2. Remove Task
+3. Mark Task as Completed
+4. Display Tasks
+5. Exit
+Enter your choice: 
+4
+1. Completion - Priority: medium, Due Date: 2024-03-01, Completed: False
+2. Reading Book - Priority: High, Due Date: 2024-03-15, Completed: False
+
+===== To-Do List Manager =====
+1. Add Task
+2. Remove Task
+3. Mark Task as Completed
+4. Display Tasks
+5. Exit
+Enter your choice: 
+3
+1. Completion - Priority: medium, Due Date: 2024-03-01, Completed: False
+2. Reading Book - Priority: High, Due Date: 2024-03-15, Completed: False
+Enter the index of the task to mark as completed: 
+1
+
+===== To-Do List Manager =====
+1. Add Task
+2. Remove Task
+3. Mark Task as Completed
+4. Display Tasks
+5. Exit
+Enter your choice: 
+4
+1. Completion - Priority: medium, Due Date: 2024-03-01, Completed: True
+2. Reading Book - Priority: High, Due Date: 2024-03-15, Completed: False
+
+===== To-Do List Manager =====
+1. Add Task
+2. Remove Task
+3. Mark Task as Completed
+4. Display Tasks
+5. Exit
+Enter your choice: 
+2
+1. Completion - Priority: medium, Due Date: 2024-03-01, Completed: True
+2. Reading Book - Priority: High, Due Date: 2024-03-15, Completed: False
+Enter the index of the task to remove: 
+2
+
+===== To-Do List Manager =====
+1. Add Task
+2. Remove Task
+3. Mark Task as Completed
+4. Display Tasks
+5. Exit
+Enter your choice: 
+4
+1. Completion - Priority: medium, Due Date: 2024-03-01, Completed: True
+
+===== To-Do List Manager =====
+1. Add Task
+2. Remove Task
+3. Mark Task as Completed
+4. Display Tasks
+5. Exit
+Enter your choice: 
+5
+
+
+** Process exited - Return Code: 0 **
+Press Enter to exit terminal
